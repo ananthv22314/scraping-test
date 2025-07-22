@@ -1,0 +1,5 @@
+# Sample URLs for testing
+# Add one URL per line, lines starting with # are ignored
+https://aakashgupta.medium.com/googles-revolutionary-ai-interview-format-is-about-to-change-everything-3a23666610c1
+https://aakashgupta.medium.com/context-engineering-the-evolution-beyond-prompt-engineering-thats-revolutionizing-ai-agent-0dcd57095c50
+https://aakashgupta.medium.com/the-complete-guide-to-product-manager-metrics-interview-questions-b080c3076b39
